@@ -1,6 +1,6 @@
 ## Random Acts of Kindness Generator
 
-- API that suggests random acts of kindness that users can perform.
+API that suggests random acts of kindness that users can perform.
 
 ## Features
 
